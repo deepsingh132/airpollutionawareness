@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Stats">
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:stretchColumns="1">
+
+        <TableRow>
+
+            <TextView
+                android:gravity="center"
+                android:padding="3dip"
+                android:text="Sources"
+                android:textStyle="bold" />
+
+            <TextView
+                android:gravity="center"
+                android:padding="3dip"
+                android:text="Percentage of Pollution" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:padding="3dip"
+                android:text="Bikes" />
+
+            <TextView
+                android:layout_gravity="center"
+                android:gravity="right"
+                android:padding="3dip"
+                android:text="25%" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:padding="3dip"
+                android:text="Cars" />
+
+            <TextView
+                android:layout_gravity="center"
+                android:gravity="right"
+                android:padding="3dip"
+                android:text="15%" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:padding="3dip"
+                android:text="Dust on roads" />
+
+            <TextView
+                android:layout_gravity="center"
+                android:gravity="right"
+                android:padding="3dip"
+                android:text="35%" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:padding="3dip"
+                android:text="Industrial Pollutions and Other sources" />
+
+            <TextView
+                android:layout_gravity="center"
+                android:gravity="right"
+                android:padding="3dip"
+                android:text="25%" />
+        </TableRow>
+    </TableLayout>
+
+</RelativeLayout>

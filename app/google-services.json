@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "247078232102",
+    "firebase_url": "https://onairpollution.firebaseio.com",
+    "project_id": "onairpollution",
+    "storage_bucket": "onairpollution.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247078232102:android:6a260258addb94de",
+        "android_client_info": {
+          "package_name": "threebugs.onairpollution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247078232102-is864fu2g5e8oko5cu098jd1lg34u6so.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "threebugs.onairpollution",
+            "certificate_hash": "8ccc90be9e13a65222c778ac4c4cfd2c2bf4ecf8"
+          }
+        },
+        {
+          "client_id": "247078232102-pmt29o9dj912ouq8904dnr53s587v37a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjtwl7sPU7MrXhfoad-zFnRu7na4qmlq8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247078232102-pmt29o9dj912ouq8904dnr53s587v37a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Home">
+
+    </item>
+
+    <item
+        android:id="@+id/blogs"
+        android:title="Blogs">
+
+    </item>
+
+    <item
+        android:id="@+id/contributions"
+        android:title="Contributions">
+
+    </item>
+
+    <item
+        android:id="@+id/stats"
+        android:title="Statistics">
+
+    </item>
+
+</menu>

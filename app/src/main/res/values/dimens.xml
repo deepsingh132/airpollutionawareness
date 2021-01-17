@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="top_margin">10dp</dimen>
+    <dimen name="md_text">20dp</dimen>
+    <dimen name="rounds">7dp</dimen>
+    <dimen name="mini_margin">5dp</dimen>
+    <dimen name="large_text">20dp</dimen>
+    <dimen name="large_margin">10dp</dimen>
+</resources>
